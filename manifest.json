@@ -1,0 +1,8 @@
+{
+     "name": "Oniichan PT-BR",
+     "id": "br.com.sinerio251.oniichan",
+     "version": 1,
+     "language": "pt",
+     "baseUrl": "https://raw.githubusercontent.com/Sinerio251/Oniichan-wa-Oshimai-Manga-Hentai-PT-BR-/main/",
+     "hasCloudflare": false
+}
