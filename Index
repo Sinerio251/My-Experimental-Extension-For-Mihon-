@@ -1,0 +1,37 @@
+{
+  "mangas": [
+    {
+      "id": "",
+      "title": "Meu Primeiro Mangá",
+      "author": "Seu Nome",
+      "description": "Uma história curta sobre...",
+      "status": "Completo",
+      "genres": ["Drama", "Slice of Life"],
+      "chapters": [
+        {
+          "id": "capitulo-1",
+          "name": "Capítulo Único",
+          "date": "2024-03-01",
+          "pages": [
+            "https://raw.githubusercontent.com/Sinerio251/My-Experimental-Extension-For-Mihon-/main/capitulo-1/pagina1.jpg",
+            "https://raw.githubusercontent.com/Sinerio251/My-Experimental-Extension-For-Mihon-/main/capitulo-1/pagina2.jpg",
+            "https://raw.githubusercontent.com//Sinerio251/My-Experimental-Extension-For-Mihon-/main/capitulo-1/pagina3.jpg",
+            "https://raw.githubusercontent.com/Sinerio251/My-Experimental-Extension-For-Mihon-/main/capitulo-1/pagina4.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina5.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina6.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina7.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina8.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina9.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina10.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina11.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina12.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina13.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina14.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina15.jpg",
+            "https://raw.githubusercontent.com/SEU_USUARIO/MEU_REPO/main/capitulo-1/pagina16.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
